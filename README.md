@@ -1,1 +1,1 @@
-# reactjs-font-changer
+# ReactJs-font-changer
