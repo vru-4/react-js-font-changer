@@ -8,7 +8,7 @@ var App = React.createClass({
 				<Output font = "Bree serif"> Hey there!</Output>
 				<Output font = "Lato">Goodbye cruel world!</Output>
 				<Output font = "Cabin" />
-				<Output font = "Proxima Nova" />
+				<Output font = "Proxima nova" />
 				<Output font = "Andale Mono" />
 			</div>
 		);
